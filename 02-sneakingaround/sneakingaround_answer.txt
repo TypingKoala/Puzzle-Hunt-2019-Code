@@ -1,0 +1,10 @@
+Dan = 1
+Rob = 2
+Joy = 5
+Ann = 10
+
+Dan and Rob go    2mins
+Dan returns       1min
+Joy and Ann go    10min
+Rob returns       2mins
+Dan and Rob go    2mins
